@@ -14,7 +14,7 @@
  *
  * The predictor is entirely combinational but takes clk/rst_n signals for use by assertions.
  */
-
+//test comment
 `include "prim_assert.sv"
 
 module ibex_branch_predict (
